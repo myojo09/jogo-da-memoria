@@ -50,7 +50,7 @@ O projeto foi desenvolvido com foco em:
 
 ## 🌐 Acesse o Projeto
 
-👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+👉 https://myojo09.github.io/jogo-da-memoria/
 
 ## 📁 Estrutura do Projeto
 
